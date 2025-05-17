@@ -1,0 +1,28 @@
+.counter-container {
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding: 30px;
+    gap: 40px;
+}
+
+.digit {
+    background-color: #111;
+    color: white;
+    font-size: 4rem;
+    font-family: monospace;
+    width: 60px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.clock-icon {
+    font-size: 3rem;
+}
